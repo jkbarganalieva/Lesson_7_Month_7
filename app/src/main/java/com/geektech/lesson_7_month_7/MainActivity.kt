@@ -7,6 +7,8 @@ class MainActivity : AppCompatActivity() {
     //task 2
     //task1
     // task1
+    //hkjb,b,
+    //jkg,hvmv
     //hktdjgcmhgmjh
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -15,5 +17,7 @@ class MainActivity : AppCompatActivity() {
     //task2
     //task2
     // task 1
+    //hfmhfdcngfc
+    //bmv,b,jb
     //jhv,vb,kh.
 }
