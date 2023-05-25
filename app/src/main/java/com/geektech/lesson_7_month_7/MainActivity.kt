@@ -6,7 +6,7 @@ import android.os.Bundle
 class MainActivity : AppCompatActivity() {
     //task 2
     //task1
-    // task1
+    //task1
     //hkjb,b,
     //jkg,hvmv
     //hktdjgcmhgmjh
