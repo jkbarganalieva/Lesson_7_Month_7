@@ -6,11 +6,11 @@ import android.os.Bundle
 class MainActivity : AppCompatActivity() {
     //task 2
     //task1
-    //hkjh
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
     //task2
+
     //task2
 }
