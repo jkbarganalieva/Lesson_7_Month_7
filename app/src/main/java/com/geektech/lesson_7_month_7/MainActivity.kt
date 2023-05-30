@@ -4,20 +4,9 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
-    //task 2
-    //task1
-    //task1
-    //hkjb,b,
-    //jkg,hvmv
-    //hktdjgcmhgmjh
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
-    //task2
-    //task2
-    // task 1
-    //hfmhfdcngfc
-    //bmv,b,jb
-    //jhv,vb,kh.
 }
